@@ -1,4 +1,4 @@
-packages <- c('TSEntropies', 'pracma')
+packages <- c('TSEntropies', 'pracma', 'TSA', 'signal')
 
 installed_packages <- packages %in% rownames(installed.packages())
 
